@@ -1,0 +1,10 @@
+Python is a popular general-purpose programming language.
+It was created by Guido van Rossum, and released in 1991.
+It is used in machine learning, web development, desktop applications, and many other fields. 
+Fortunately for beginners, Python has a simple, easy-to-use syntax. 
+This makes Python a great language to learn for beginners.
+Why Learn Python?
+Python is easy to learn. Its syntax is easy and code is very readable.
+Python has a lot of applications. It's used for developing web applications, data science, rapid application development, and so on.
+Python allows you to write programs in fewer lines of code than most of the programming languages.
+The popularity of Python is growing rapidly. Now it's one of the most popular programming languages.

@@ -1,0 +1,7 @@
+Write a python program create csv file student.csv(sid,sname,city,contact) using 10 records 
+
+(in which 5 records input directly and 5 records take input from user) write records into this file.
+
+Read this file using csv module and print it. 
+
+NOTE: Reading and writting must be perform using python script.

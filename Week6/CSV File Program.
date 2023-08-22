@@ -1,0 +1,15 @@
+Peform Following task using PYTHON Script. If any problem communicate with other student using discussion board of "Week 6 Assignment".
+
+1. Create a result table which contain student id, student name and 5 subject marks. 
+
+2. Enter 10 studnet details with its marks.
+
+3. Dump table into csv file "result.csv".
+
+4. Read result.csv file and Print Total Marks and Grade of each student. Also Append Total Marks and Grade column into result.csv file.
+
+5. List out Top 3 Student id and name with its percentage.
+
+
+
+
